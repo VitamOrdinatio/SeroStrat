@@ -1,0 +1,1 @@
+SeroStrat is a biologically motivated cohort-definition framework that transforms raw CMV/EBV serology into reproducible pediatric ICU infection-state cohorts.
