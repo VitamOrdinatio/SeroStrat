@@ -1,3 +1,16 @@
+### Not a proper YAML file, needs refactoring (the following is ground truth)
+
+## Best practice would be to categorically list lab items types, starting with serology:
+serology: 13
+chemistry_electrolytes: 12
+blood_gas_acid_base: 25
+hematology: 28
+coagulation: 5
+inflammation: 2
+endocrine: 4
+metabolic_screen: 26
+other: 10
+
 lab_item_ids  | lab_item_names
 -5230  |  Sodium_Whole_Blood
 -5226  |  Potassium
